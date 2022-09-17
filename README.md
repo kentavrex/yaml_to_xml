@@ -39,7 +39,7 @@ Result in
 ## Information
 * This is a simple script that parses an YAML file to XML
 * This is testing and sampling purposes but can be changed to production ready
-* This should be run in an isolated python environment (virtual env)
+* It should be run in an isolated python environment (virtual env)
 
 ## Requirements
 * Python 3.6+
